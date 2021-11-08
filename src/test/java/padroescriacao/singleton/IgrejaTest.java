@@ -23,6 +23,4 @@ public class IgrejaTest {
         assertEquals("Rua Maquinista Joao Mendes, Numero 120", Igreja.getInstance().getEnderecoIgreja());
     }
 
-
-
 }
